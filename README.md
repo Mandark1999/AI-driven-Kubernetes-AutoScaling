@@ -1,5 +1,4 @@
-# CS208_Project
-## Proactive Kubernetes Autoscaler
+# AI-driven-Kubernetes-AutoScaling
 
 ### Set Up Environment
 
